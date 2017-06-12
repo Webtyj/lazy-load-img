@@ -2,6 +2,7 @@
  [![npm](https://img.shields.io/npm/v/lazy-load-img.svg?style=flat-square)](https://www.npmjs.com/package/lazy-load-img) [![npm](https://img.shields.io/npm/dt/lazy-load-img.svg?style=flat-square)](https://www.npmjs.com/package/lazy-load-img) 
 
 
+###来自大神的代码，自己拿来用
 
 ### 安装
 ```
